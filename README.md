@@ -30,7 +30,7 @@ A curation of ML papers and blogs. Welcome to contribute!
 ## Papers
 *List is unordered.*
 ### Classical Machine Learning
-- Combining Labeled and Unlabeled Data with Co-Training. Avrim Blum, Tom M. Mitchell. COLT 1998.
+- Semi-supervised learning with co-training. Combining Labeled and Unlabeled Data with Co-Training. Avrim Blum, Tom M. Mitchell. COLT 1998.
 - CRF. Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data. John D. Lafferty, Andrew McCallum, Fernando Pereira. ICML 2001.
 - Spectral Clustering. On Spectral Clustering: Analysis and an algorithm. Andrew Y. Ng, Michael I. Jordan, Yair Weiss. NIPS 2001. 
 - Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions. Xiaojin Zhu et al. ICML 2003.
@@ -50,7 +50,7 @@ A curation of ML papers and blogs. Welcome to contribute!
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets. Xi Chen et al. NeurIPS 2016.
 - GCN. Semi-Supervised Classification with Graph Convolutional Networks. Thomas N. Kipf and Max Welling. ICLR 2016.
 - Capsule Networks. Dynamic Routing Between Capsules. Sara Sabour, Nicholas Frosst, Geoffrey E. Hinton. NeurIPS 2017.
-- MAML. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017.
+- Meta-learning. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks. Chelsea Finn, Pieter Abbeel, Sergey Levine. ICML 2017.
 
 ### Natural Language Processing 
 - A Neural Probabilistic Language Model. Yoshua Bengio, Réjean Ducharme, Pascal Vincent, Christian Janvin. NIPS 2000.
