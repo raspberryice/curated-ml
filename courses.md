@@ -81,3 +81,6 @@ This is an interdisciplinary course that also draws from sociology and economics
 [Course website](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 [Youtube playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+## Systems for ML. University of Washington CSE 599W.
+[Course website](https://dlsys.cs.washington.edu/)
